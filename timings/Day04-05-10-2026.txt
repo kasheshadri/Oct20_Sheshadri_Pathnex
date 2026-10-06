@@ -5,3 +5,4 @@ practised git commands
 
 ## Tomorrow's Task
 work on AWS
+and practice definitions and steps
