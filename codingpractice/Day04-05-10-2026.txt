@@ -1,0 +1,24 @@
+git init
+touch Demo.java Order.java abc.py def.sh devops.txt Prasanth.java
+git status
+git add Demo.java
+git add *.java
+git add *
+git config --global user.name "shes"
+git config --global user.email "shes@email.com"
+git commit -m "Added all files"
+git log
+git push
+git pull
+.gitignore
+echo "secret.txt" >> .gitignore
+git branch
+git checkout dev
+git checkout master
+git switch -c feature-2
+git branch -d feature-2
+git tag
+git show v1.0.1
+git stash list
+git clone repo url
+git cherrypic commitid
